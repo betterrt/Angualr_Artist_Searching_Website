@@ -1,0 +1,48 @@
+#navtop{
+    margin-top: -8px;
+}
+#headertext{
+    background-color: rgba(225, 225, 228, 0.396);
+}
+#headertext span{
+    font-size: 18px;
+    padding-top: 10px;
+    padding-bottom: 12px;
+}
+
+#thecontainer1{
+    margin-top: 40px;
+}
+
+#buttons{
+    margin-top: 15px;
+}
+#searchbutton{
+    background-color: #205375;
+    margin-right: 5px;
+}
+#navbottom{
+    margin-bottom: -8px;
+}
+#footertext{
+    background-color: #112B3C;
+}
+#footertext a{
+    color: white;
+    font-family: Calibri, sans-serif;
+    font-size: 14px;
+    padding-top: 12px;
+    padding-bottom: 10px;
+}
+
+#footerlogo{
+    width: 12px;
+    height: 12px;
+    position: relative;
+    bottom: 3px;
+}
+
+  
+
+  
+
